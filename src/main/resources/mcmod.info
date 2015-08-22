@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "ElvenExperience",
+    "name": "ElvenExperience",
+    "description": "A Botania addon based on a typo.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "http://tehnut.info/",
+    "updateUrl": "http://tehnut.info/jenkins/",
+    "authorList": [ "TehNut" ],
+    "credits": "Vazkii for Botania",
+    "logoFile": "",
+    "screenshots": [ ]
+  }
+]
