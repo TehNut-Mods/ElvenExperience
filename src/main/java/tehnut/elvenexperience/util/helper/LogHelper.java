@@ -1,4 +1,4 @@
-package tehnut.elvenexperience.util;
+package tehnut.elvenexperience.util.helper;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

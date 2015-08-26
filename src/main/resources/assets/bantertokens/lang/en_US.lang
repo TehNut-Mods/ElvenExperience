@@ -8,3 +8,6 @@ chat.ElvenExperience.banter.whisper=&7&oThe Elves whisper...&r
 lexicon.ElvenExperience.entry.token.name=Token of Banter
 lexicon.ElvenExperience.entry.token.page.0=You have always wondered what else the Elves had to say. Well, now you can find out. Simply toss one of these Tokens of Banter into the Elven Gateway Portal and they will whisper a secret to.
 lexicon.ElvenExperience.entry.token.page.1=&oinsert wit here&r
+
+botania.challenge.get.cobble=Get Cobblestone
+botania.challenge.get.cobble.desc=Obtain some cobblestone.

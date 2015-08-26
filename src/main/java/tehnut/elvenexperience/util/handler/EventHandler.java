@@ -1,10 +1,11 @@
-package tehnut.elvenexperience.util;
+package tehnut.elvenexperience.util.handler;
 
 import cpw.mods.fml.common.eventhandler.SubscribeEvent;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.item.ItemStack;
 import net.minecraft.world.World;
 import tehnut.elvenexperience.registry.ItemRegistry;
+import tehnut.elvenexperience.util.helper.BanterHelper;
 import vazkii.botania.api.recipe.ElvenPortalUpdateEvent;
 
 import java.util.List;
@@ -24,7 +25,7 @@ public class EventHandler {
         for (ItemStack stack : inventory) {
             if (stack.getItem() == ItemRegistry.token) {
                 inventory.remove(stack);
-                BanterUtils.doWittyMessage(players);
+                BanterHelper.doWittyMessage(players);
                 break;
             }
         }
